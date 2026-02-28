@@ -8,10 +8,6 @@
 
 *(Note: This repository contains the abstract and architectural overview. The full research manuscript and findings are actively being published across several academic and media sources. I would be glad to connect and share the full detailed drafts with interested professors and researchers upon request.)*
 
-<div align="center">
-  <!-- 📸 Placeholder: Add a screenshot of the web platform UI or a diagram of the AI Chatbot Architecture here -->
-  <img src="https://via.placeholder.com/800x400?text=Insert+Platform+Screenshot+or+Architecture+Diagram+Here" alt="Platform UI Overview" />
-</div>
 
 <div align="center">
   <img src="Architecture.jpg" alt="Project Architecture" width="800">
