@@ -1,6 +1,4 @@
 # Research-Paper-for-IITU
-
-
 # AI-Business-Chinese-Platform
 
 [![Status](https://img.shields.io/badge/Status-Prototype-orange.svg)]()
