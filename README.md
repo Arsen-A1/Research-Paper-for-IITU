@@ -13,6 +13,10 @@
   <img src="https://via.placeholder.com/800x400?text=Insert+Platform+Screenshot+or+Architecture+Diagram+Here" alt="Platform UI Overview" />
 </div>
 
+<div align="center">
+  <img src="Architecture.jpg" alt="Project Architecture" width="800">
+</div>
+
 ## 🌱 Personal Motivation
 Language learning has historically been rigid and static. As someone deeply invested in cross-cultural communication—and actively studying Chinese at an advanced level (HSK 4)—I wanted to build a tool that I would actually use. This project stems from my passion for the intersection of EdTech and Natural Language Processing. Beyond Chinese, building this conversational AI architecture serves as a foundational step toward my broader goal: applying advanced NLP to support and preserve low-resource languages, and eventually scaling these technologies into new linguistic frontiers like Arabic.
 
